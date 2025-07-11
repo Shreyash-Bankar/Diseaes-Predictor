@@ -33,7 +33,7 @@ For Parkinsons SVC model used with 88% accuracy
 ### Clone the repository:
 
 ```bash
-git clone 
+git clone "https://github.com/Shreyash-Bankar/Diseaes-Predictor.git"
 ```
 
 ### Install Requirements
